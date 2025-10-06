@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 .services-sidebar {
     width: 250px;
     background-color: var(--surface-color);
-    padding: 5rem 2rem;
+    padding: 6rem 2rem;
     height: 100vh;
     position: fixed;
     top: 0;
